@@ -48,7 +48,7 @@ Information about Amarino can be found here:
 
 And you've already put the code on your personal phone, it's in the android
 dev folder, under platform-tools/, and the install procedure was simply
-> ./adb install <blahblahpackagename>
+> `./adb install <blahblahpackagename>`
 
 The arduino will need to be programmed to give good IO with processing,
 http://www.arduino.cc/playground/interfacing/Processing
