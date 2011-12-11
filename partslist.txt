@@ -1,0 +1,66 @@
+//* PARTS LIST
+  * as of 27/11/2011
+  *//
+
+1  x Arduino Uno					30.00
+1  x (20x30) Breadboard					 5.00
+75 x Breadboard wires					 6.00
+1  x Arduino -> USB cable				 5.00
+1  x 9v battery case with switch and 2.1mm plug		 4.00
+     LEDs from FreeGeek
+
+1  x semi-bricked android phone, from this list:	20.00
+     		  Androids with gyro list is now:
+
+		  Samsung /Google Nexus S - TESTED
+		  Samsung Galaxy Nexus
+		  Samsung i897 Captivate
+		  Samsung Galaxy S
+		  Samsung Galaxy S Vibrant
+		  Samsung I9100 Galaxy S II - CONFIRMED
+		  Samsung Infuse 4G
+
+		  LG optimus 2x 
+		  LG Optimus 3D P920 - CONFIRMED
+		  LG Optimus Black P970
+		  LG Optimus Dual
+
+		  SonyEricsson Xperia play
+
+		  HTC Sensation
+		  HTC EVO 3D
+		  HTC Rezound
+1  x Android -> USB cable				 1.00
+
+4  x Plush 12A-E Brushless Speed Controller		40.00
+     <http://hobbyking.com/hobbyking/store/__2161__TURNIGY_Plush_12amp_2A_BEC_BESC.html>
+4  x Turnigy 2209 28turn 1050kv 15A Outrunner Servos	48.00
+     <http://www.hobbyking.com/hobbyking/store/uh_viewitem.asp?idproduct=5687>
+2  x APC 14x4.7 Propeller	    	      		10.00
+     <http://www.aeroquadstore.com/APC_14x4_7_Propellers_p/lp14047sf.htm>
+2  x APC 14x4.7 Pusher Propeller			10.00
+    <http://www.aeroquadstore.com/APC_14x4_7_Pusher_Propellers_p/lp14047sfp.htm>
+
+TOTAL SO FAR (W/O TOOLS)				179.00
+
+//* 
+  * SOLDERING EQUIPMENT
+  *//
+
+1  x 30W adjustable temperature soldering iron
+1  x Soldering stand
+1  x Solder, rosin-core, 0.031" diameter, 1/4 lb (100ft.) 60/40
+1  x Solder sucker
+1  x Solder wick/braid spool
+1  x 360 degree minivise
+1  x multimeter
+1  x diagonal cutters
+1  x wire strippers
+1  x micro needle nose pliers				100.00 (yikes)
+
+//* 
+  * FRAME COMPONENTS
+  *//
+
+Idea: We could use aluminum bike parts and cut/bolted aluminum
+      cans to build the frame! Hella fuck yeah!
